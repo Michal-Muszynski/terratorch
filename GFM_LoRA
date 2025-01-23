@@ -1,0 +1,1 @@
+The goal of this branch is here to incoporate Low Rank Adaptation (LoRA) for Geospatial Foundation Models (i.e., vision transformers) into TerraTorch.
